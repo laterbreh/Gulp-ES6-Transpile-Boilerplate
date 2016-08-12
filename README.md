@@ -4,6 +4,7 @@ Boilerplate configuration for transpiling es6 to es5 using gulp watcher and babe
 
 **To use:**
 `npm install`
+**Then:** 
 `gulp`
 
 Everytime you save inside the src folder, gulp will transpile your code and place it in the dist folder. 
